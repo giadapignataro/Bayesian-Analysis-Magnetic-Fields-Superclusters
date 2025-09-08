@@ -40,8 +40,8 @@ It provides a hands-on example of how **Bayesian MCMC methods can be applied in 
 
 Here's a density cube with redshift of a supercluster of galaxies:
 
-![Density Cube](images_results/density_cube.gif)
+![Density Map](images_results/density_map.pdf)
 
 Here’s a corner plot on magnetic field distribution in superclusters of galaxies:
 
-![Corner Plot of Posterior](images_results/cornerplot.pdf)
+![Corner Plot of Posterior](images_results/corner_plot.pdf)
