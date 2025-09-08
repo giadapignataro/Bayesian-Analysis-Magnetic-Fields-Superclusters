@@ -33,3 +33,15 @@ Bayesian methods allow us to:
 This project is inspired by ongoing research in cosmic magnetism,  
 using LOFAR observations to understand magnetic fields in large-scale structures.  
 It provides a hands-on example of how **Bayesian MCMC methods can be applied in astrophysics**.
+
+---
+
+## Example Results
+
+Here's a density cube with redshift of a supercluster of galaxies:
+
+![Density Cube](images_results/density_cube.gif)
+
+Here’s a corner plot on magnetic field distribution in superclusters of galaxies:
+
+![Corner Plot of Posterior](images_results/cornerplot.pdf)
