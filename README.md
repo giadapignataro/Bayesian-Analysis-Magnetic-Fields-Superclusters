@@ -1,4 +1,4 @@
-# Bayesian MCMC Analysis of Magnetic Fields in Galaxy Superclusters
+# Bayesian MCMC Analysis of Magnetic Fields in Superclusters of Galaxies
 
 This repository contains a tutorial and reproducible workflow for analyzing **magnetic fields in galaxy superclusters** using **Bayesian statistics**.  
 The analysis is based on **RM-Synthesis** of LOFAR observations and demonstrates:
