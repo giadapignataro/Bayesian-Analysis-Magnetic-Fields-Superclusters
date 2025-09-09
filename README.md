@@ -44,4 +44,4 @@ Here's a density cube with redshift of a supercluster of galaxies:
 
 Here’s a corner plot on magnetic field distribution in superclusters of galaxies:
 
-![Corner Plot of Posterior](images_results/corner_plot.pdf)
+![Corner Plot of Posterior](images_results/corner_plot.png)
